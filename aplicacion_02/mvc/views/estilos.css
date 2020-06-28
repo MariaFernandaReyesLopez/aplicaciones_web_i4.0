@@ -1,0 +1,22 @@
+html{
+    font-size: larger;
+    letter-spacing: 1px;
+    background-color: lightcoral;
+  }
+  body{
+    background-color: lightcoral;
+  
+  }
+  h1{
+    color: darkslategray;
+    }
+  p{
+      font-family: 'Dosis', sans-serif;
+      border: sandybrown;
+  
+    }
+  number{
+      font-family: 'Dosis', sans-serif;
+      font-style: oblique;
+    }
+  
