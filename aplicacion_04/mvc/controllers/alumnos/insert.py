@@ -26,3 +26,4 @@ class Insert():
             return render.insert()
         except Exception as e:
             return "Error" + str(e.args)
+            

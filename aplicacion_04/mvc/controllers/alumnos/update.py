@@ -26,3 +26,4 @@ class Update():
             return render.update()
         except Exception as e:
             return "Error" + str(e.args)
+            

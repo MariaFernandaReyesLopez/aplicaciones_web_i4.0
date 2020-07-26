@@ -10,3 +10,4 @@ class View():
             return render.view() # renderizando view.html
         except Exception as e:
             return "Error " + str(e.args)
+            
